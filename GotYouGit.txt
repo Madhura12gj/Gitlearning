@@ -1,15 +1,15 @@
 If you have been dragging and dropping files on GitHub or using Git Desktop then this little document is for you to learn git commands. Let’s begin.
 
-P.S : remember to use these commands only in the directory when you are in the directory of GitHub repo.)
+P.S : remember to use these commands only in the directory when you are in the directory of GitHub repo.
 
 1) The first thing you need to do is create a repository with Readme on GitHub.
 2) Copy URL of your repository from GitHub browser. On your terminal change the path where you want to download this repo and use ‘git clone (paste the url)’ 
 3)’git status’ can be used if you want to know the status of the file.
 4)’git add (name of the file that is changed)’ will help you to add and commit the file after you’ve made changes in it.
-5)’git comment -m (message you want to save with commit)’ this describes  the recent most change/commit you’ve made along a with a message for the viewer to understand.
+5)’git commit -m (message you want to save with commit in quotes)’ this describes  the recent most change/commit you’ve made along a with a message for the viewer to understand.
 6)’git push’ will upload all the files to your GitHub repository.
 7)’git pull’ can be used if you want to download all the files and changes into your local machine committed by other contributors.
-8)and for any help don’t forget to use ‘git’ command.
+8)And for any help don’t forget to use ‘git’ command.
 
 
   
